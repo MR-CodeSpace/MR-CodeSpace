@@ -202,7 +202,7 @@
 ![Muhammad Rameez's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ZapeeoSheikh&layout=compact&langs_count=8&hide_border=true)
 <br />
 <p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-CodeBase&theme=yellow" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MR-CodeSpace&theme=yellow" />
 </p>
 
 </details>
