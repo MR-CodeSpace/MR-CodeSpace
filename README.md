@@ -7,13 +7,13 @@
 ### This is my Work Space Account [ Personal Account <a href="https://github.com/ZapeeoSheikh"> @ZapeeoSheikh <img src="github.png" width="15px"/></a>]
 
 <!-- HaedLine !-->
-<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=42BDAF&width=500&lines=I+am+a+Flutter+Developer+and+Data+Engineer....">
+<img src="https://readme-typing-svg.herokuapp.com?font=Algerians&color=543757&width=500&lines=I+am+a+Flutter+Developer+and+Data+Engineer....">
     
 > Be Creative to Think Unique, to Be Unique - **M Rameez** 💕
 
 
 <!--Profile views counter API!-->
-<img src="https://komarev.com/ghpvc/?username=MR-CodeBase&label=visiters&color=42BDAF&style=flat" alt="m-rameez" />
+<img src="https://komarev.com/ghpvc/?username=MR-CodeBase&label=visiters&color=543757&style=flat" alt="m-rameez" />
 
 
 
